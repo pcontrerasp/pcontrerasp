@@ -2,9 +2,9 @@
 
 I'm Patricio Contreras Pardo a senior software engineer skilled in C#, Entity Framework and SQL Server.
 
-I learned to code when I was 14 years old. I love to solve puzzles and find creative and efficient solutions to problems. I don’t stop examining questions, looking for ways to customize systems with a can-do attitude and out of the box solutions.
+I learned to code when I was 14 years old. I love to solve puzzles and find creative and efficient solutions to problems. I don't stop examining questions, looking for ways to customize systems with a can-do attitude and out of the box solutions.
 
-When I’m not working or researching technologies, I’m probably hiking with my family and our Patagonian greyhound. I love early mornings with my son, and spending time with my wife.
+When I'm not working or researching technologies, I'm probably hiking with my family and our Patagonian greyhound. I love early mornings with my son, and spending time with my wife.
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer">
