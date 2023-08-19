@@ -1,21 +1,17 @@
 <h1 align="left">Hi there 👋</h1>
 
-I'm Patricio Contreras Pardo a senior software engineer skilled in C#, Entity Framework and SQL Server.
+I'm Patricio Contreras Pardo, a seasoned senior software engineer with expertise in C#, Entity Framework, and SQL Server.
 
-I learned to code when I was 14 years old. I love to solve puzzles and find creative and efficient solutions to problems. I don't stop examining questions, looking for ways to customize systems with a can-do attitude and out of the box solutions.
-
-When I'm not working or researching technologies, I'm probably hiking with my family and our Patagonian greyhound. I love early mornings with my son, and spending time with my wife.
+I began coding at the age of 14. I have a passion for solving puzzles and discovering creative, efficient solutions to problems. I consistently explore questions, seeking ways to optimize algorithms with a can-do attitude and innovative, out-of-the-box solutions.
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
