@@ -4,7 +4,7 @@ I'm Patricio Contreras Pardo, a seasoned senior software engineer with expertise
 
 I began coding at the age of 14. I have a passion for solving puzzles and discovering creative, efficient solutions to problems. I consistently explore questions, seeking ways to optimize algorithms with a can-do attitude and innovative, out-of-the-box solutions.
 
-<h3 align="left">Languages and tools:</h3>
+<h3 align="left">Languages and frameworks:</h3>
 <p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
