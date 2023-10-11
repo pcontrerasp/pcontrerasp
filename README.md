@@ -21,7 +21,6 @@ I began coding at the age of 14. I have a passion for solving puzzles and discov
 
 ![](https://patricio-contreras.com/api/v1/counter/pcontrerasp/badge)
 
-
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcontrerasp&show_icons=true&locale=en&layout=compact" alt="pcontrerasp" /></p-->
 
 <!--p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pcontrerasp&show_icons=true&locale=en" alt="pcontrerasp" /></p-->
