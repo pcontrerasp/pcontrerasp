@@ -19,7 +19,7 @@ I began coding at the age of 14. I have a passion for solving puzzles and discov
 <a href="https://linkedin.com/in/pcontrerasp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pcontrerasp" height="30" width="40" /></a>
 </p>
 
-![](https://patricio-contreras.com/api/v1/counter/pcontrerasp/badge?p)
+![](https://patricio-contreras.com/api/v1/badge?user=pcontrerasp)
 
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcontrerasp&show_icons=true&locale=en&layout=compact" alt="pcontrerasp" /></p-->
 
