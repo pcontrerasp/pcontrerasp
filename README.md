@@ -1,8 +1,12 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi there! 👋 Welcome</h1>
 
-I'm Patricio Contreras Pardo, a seasoned senior software engineer with expertise in C#, Entity Framework, and SQL Server.
+I'm a senior software engineer with over 16 years of experience in software development, specializing in both backend and frontend. I hold a Bachelor of Science in Engineering, an Engineer's degree, and an MBA.
 
-I began coding at the age of 14. I have a passion for solving puzzles and discovering creative, efficient solutions to problems. I consistently explore questions, seeking ways to optimize algorithms with a can-do attitude and innovative, out-of-the-box solutions.
+I began coding at the age of 14, and since then, I've developed a passion for solving puzzles and creating efficient solutions to complex problems. I consistently explore questions, seeking ways to optimize algorithms with a can-do attitude and innovative, out-of-the-box solutions.
+
+I have led multi-year software projects from their inception, working across various industries and collaborating and leading teams from different countries.
+
+I currently reside in Seattle, USA. I'm a husband and father of one, originally from the southernmost part of Patagonia, Punta Arenas, Chile. I bring a unique perspective to my work.
 
 <h3 align="left">Languages and frameworks:</h3>
 <p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer">
