@@ -12,14 +12,20 @@ I started programming in Pascal, which happens to be my son's name, too. Origina
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Patricio Contreras on LinkedIn" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/pcontrerasp/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Patricio Contreras on LinkedIn" height="30" width="40"/>
+  </a>
 </p>
 
 <sub>The views expressed here are my own and do not necessarily reflect the views of Oracle.</sub>
