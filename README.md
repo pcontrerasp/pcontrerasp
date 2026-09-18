@@ -8,7 +8,7 @@ Earlier, at Redbanc, a financial technology company operating Chile's interbank 
 
 I use Claude Code, Codex, and other AI agents to plan, build, and review software. I'm interested in how to make that work repeatable: clear requirements, focused changes, and tests and reviews that show the result is ready to ship.
 
-I started programming in Pascal, which happens to be my son's name, too. Originally from Punta Arenas, in Chilean Patagonia, I now live in the United States. Husband to Harper and dad to Pascal.
+I started programming in Pascal. Originally from Punta Arenas, in Chilean Patagonia, I now live in the United States with my family.
 
 <h3 align="left">Languages</h3>
 <p align="left">
