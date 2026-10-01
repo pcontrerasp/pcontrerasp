@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Patricio 👋</h1>
 
-**Senior Principal Software Engineer & Tech Lead at Oracle Cloud Infrastructure.** I work on distributed systems and multicloud database infrastructure, helping deliver Oracle Database@Google Cloud.
+**Lead Principal Engineer, Core Infrastructure, at Oracle Cloud Infrastructure.** Tech lead for the multicloud platform behind Oracle Database@Google Cloud, @AWS and @Azure.
 
 Before Oracle, I built optimization, logistics, and scheduling software for industrial clients, including a distributed optimization backend that reduced product losses by 56%. I enjoy turning complex problems into software people can rely on, and helping other engineers do the same.
 
